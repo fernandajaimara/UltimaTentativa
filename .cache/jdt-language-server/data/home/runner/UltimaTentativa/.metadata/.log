@@ -1,0 +1,230 @@
+!SESSION 2023-12-04 16:40:42.620 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/UltimaTentativa/.cache/jdt-language-server/data/home/runner/UltimaTentativa
+
+This is a continuation of log file /home/runner/UltimaTentativa/.cache/jdt-language-server/data/home/runner/UltimaTentativa/.metadata/.bak_0.log
+Created Time: 2023-12-04 17:56:37.743
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:56:37.743
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:56:46.005
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:01.708
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:04.611
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:04.970
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:05.482
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.085
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.127
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.250
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.340
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.406
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.447
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.846
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:08.886
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.352
+!MESSAGE begin problem for /ProdutoBDRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.352
+!MESSAGE 0 problems reported for /ProdutoBDRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.422
+!MESSAGE begin problem for /ProdutoArquivoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.423
+!MESSAGE 24 problems reported for /ProdutoArquivoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.423
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.437
+!MESSAGE begin problem for /AppProdutoArquivo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:09.449
+!MESSAGE 2 problems reported for /AppProdutoArquivo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.058
+!MESSAGE begin problem for /ProdutoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.059
+!MESSAGE 2 problems reported for /ProdutoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.129
+!MESSAGE begin problem for /Produto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.131
+!MESSAGE 2 problems reported for /Produto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.146
+!MESSAGE begin problem for /AppProdutoBD.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.147
+!MESSAGE 2 problems reported for /AppProdutoBD.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.246
+!MESSAGE begin problem for /ProdutoArquivoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.247
+!MESSAGE 10 problems reported for /ProdutoArquivoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.340
+!MESSAGE begin problem for /ProdutoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.341
+!MESSAGE 24 problems reported for /ProdutoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.425
+!MESSAGE begin problem for /AppProduto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.426
+!MESSAGE 2 problems reported for /AppProduto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.436
+!MESSAGE begin problem for /ProdutoInputDTO.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.436
+!MESSAGE 2 problems reported for /ProdutoInputDTO.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.436
+!MESSAGE Validated 10. Took 1099 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.439
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.450
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.451
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.453
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.518
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.934
+!MESSAGE begin problem for /ProdutoBDRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.935
+!MESSAGE 0 problems reported for /ProdutoBDRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.973
+!MESSAGE begin problem for /ProdutoArquivoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:10.974
+!MESSAGE 24 problems reported for /ProdutoArquivoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.021
+!MESSAGE begin problem for /AppProdutoArquivo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.021
+!MESSAGE 2 problems reported for /AppProdutoArquivo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.034
+!MESSAGE begin problem for /ProdutoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.034
+!MESSAGE 2 problems reported for /ProdutoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.043
+!MESSAGE begin problem for /Produto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.044
+!MESSAGE 2 problems reported for /Produto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.128
+!MESSAGE begin problem for /AppProdutoBD.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.129
+!MESSAGE 2 problems reported for /AppProdutoBD.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.318
+!MESSAGE begin problem for /ProdutoArquivoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.318
+!MESSAGE 10 problems reported for /ProdutoArquivoRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.373
+!MESSAGE begin problem for /ProdutoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.418
+!MESSAGE 24 problems reported for /ProdutoController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.454
+!MESSAGE begin problem for /AppProduto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.517
+!MESSAGE 2 problems reported for /AppProduto.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.534
+!MESSAGE begin problem for /ProdutoInputDTO.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.535
+!MESSAGE 2 problems reported for /ProdutoInputDTO.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.536
+!MESSAGE Validated 10. Took 615 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:11.858
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:12.075
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:13.139
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:17.204
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:39.180
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 17:59:42.525
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 18:01:34.279
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 18:01:34.702
+!MESSAGE >> document/hover
+!SESSION 2023-12-04 18:16:59.243 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/UltimaTentativa/.cache/jdt-language-server/data/home/runner/UltimaTentativa
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-04 18:17:06.036
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

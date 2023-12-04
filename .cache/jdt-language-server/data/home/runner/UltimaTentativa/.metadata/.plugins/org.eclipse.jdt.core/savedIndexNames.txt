@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+/home/runner/UltimaTentativa/.cache/jdt-language-server/data/home/runner/UltimaTentativa/.metadata/.plugins/org.eclipse.jdt.core
+3691897276.index
+1616771566.index
+1924145054.index
+2643538184.index
+1588512716.index
+2158634747.index
+1970955023.index
+1865797976.index
+1686274598.index
+3399737196.index
+1902174738.index
+3842426239.index
+3737420636.index
+3555902092.index
+63098532.index
+1773929707.index
