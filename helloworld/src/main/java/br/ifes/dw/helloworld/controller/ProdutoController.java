@@ -12,8 +12,8 @@ import br.ifes.dw.helloworld.exception.*;
 @RestController
 @RequestMapping("produtos")
 public class ProdutoController {
-	@Autowired
-	private ProdutoArquivoRepository produtoArquivoRepository; // ou ProdutoDatabaseRepository
+	
+	private ProdutoArquivoRepository produtoArquivoRepository;
 
 	@GetMapping("/")
 	public List<Produto> getAll() {

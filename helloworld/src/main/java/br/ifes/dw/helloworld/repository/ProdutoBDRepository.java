@@ -8,7 +8,6 @@ import javax.persistence.PersistenceContext;
 import javax.transaction.Transactional;
 import java.util.List;
 
-
 public class ProdutoBDRepository implements IRepository<Produto> {
 
     @PersistenceContext
@@ -40,7 +39,15 @@ public class ProdutoBDRepository implements IRepository<Produto> {
         }
     }
 
-	@Override
-	public void atualizar(int id, Produto entity) {
-	}
+    @Override
+    @Transactional
+    public void atualizar(int id, Produto entity) {
+        // Implemente a lógica de atualização conforme necessário
+    }
+
+    public int getNextId() {
+        Integer maxId = entityManager.createQuery("SELECT MAX(p.id) FROM Produto p", Integer.class)
+                                     .getSingleResult();
+        return maxId != null ? maxId + 1 : 1;
+    }
 }
