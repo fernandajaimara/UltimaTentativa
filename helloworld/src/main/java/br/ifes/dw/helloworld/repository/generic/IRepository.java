@@ -1,7 +1,9 @@
 package br.ifes.dw.helloworld.repository.generic;
 
+import org.springframework.stereotype.Repository;
 import java.util.List;
 
+@Repository
 public interface IRepository<R> {
 
     List<R> getAll();
